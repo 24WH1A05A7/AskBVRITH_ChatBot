@@ -1,0 +1,13 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+data/
+chroma_db*/
+chroma_db_v2/
+chroma_db_v3/
+eval_results/
+frontend/node_modules/
+.streamlit/
+*.sqlite3
+observability.db
